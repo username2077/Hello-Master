@@ -10,19 +10,21 @@
 ## Follow the master
 - USTC https://catalog.ustc.edu.cn/program
 - MIT OCW
+- Microsoft https://docs.microsoft.com/zh-cn/
 - Websites
 	- Leetcode
 - Books
-	- CSAPP
+	- 图灵教育
+	- 计算机科学丛书
 - Movies & TVs
 	- The Social Network
 	- Silicon Valley
 	- Mr. Robot
 
 ## Walk with the master
-1. Apply for Excellet School Master program
+1. Apply for Master program
 2. Work on my own open source project
-3. Wrok in big tech company
+3. Work in big tech company as a software engineer
 
 ## See through the master
 
