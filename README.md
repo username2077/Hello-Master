@@ -15,7 +15,7 @@
 	- Leetcode
 - Books
 	- 图灵教育
-	- 计算机科学丛书
+	- 计算机科学丛书(黑皮书)
 - Movies & TVs
 	- The Social Network
 	- Silicon Valley
