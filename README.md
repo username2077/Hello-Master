@@ -12,15 +12,33 @@
 - USTC https://catalog.ustc.edu.cn/program
 - MIT OCW
 - Microsoft https://docs.microsoft.com/zh-cn/
+- Google
 - Websites
 	- Leetcode
 - Books
-	- 图灵教育
 	- 计算机科学丛书(黑皮书)
 - Movies & TVs
 	- The Social Network
 	- Silicon Valley
 	- Mr. Robot
+- Program language
+	- C
+	- C++
+	- Python
+	- Go
+	- ?
+- Software
+	- Vim
+	- Emacs
+- OS
+	- Linux
+	- MacOS
+- Style
+	- Gap
+- Device
+	- iphone
+	- Macbook pro
+	- Casio Watch
 
 ## Walk with the master
 1. Apply for Master program
