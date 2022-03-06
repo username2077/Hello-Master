@@ -11,6 +11,7 @@
 ## Follow the master
 - USTC https://catalog.ustc.edu.cn/program
 - MIT OCW
+- ACM Curricula Recommendations https://www.acm.org/education/curricula-recommendations
 - Microsoft https://docs.microsoft.com/zh-cn/
 - Google
 - Websites
