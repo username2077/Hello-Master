@@ -7,6 +7,7 @@
 - Mark Zuckerberg(Facebook)
 - Lei Jun(Xiao Mi)
 - 李小龙
+- 普京
 
 ## Follow the master
 - USTC https://catalog.ustc.edu.cn/program
